@@ -1,128 +1,231 @@
-Hi there! 👾 I'm Ashutosh Piprode
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Developer;Learning+New+Technologies;Full+Stack+Enthusiast;Problem+Solver)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003fef,100:00d4ff&height=200&section=header&text=Ashutosh%20Piprode&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20Builder%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=003fef&center=true&vCenter=true&width=600&lines=Building+AI+tools+that+actually+do+things;Python+%7C+LLMs+%7C+Full+Stack+%7C+Cybersecurity;Jr.+Penetration+Tester+%7C+LLM+Engineer;Turning+ideas+into+shipped+software)](https://git.io/typing-svg)
+
+</div>
+
 ---
-🎯 Current Focus
-🔭 Working on: [My latest portfolio project or academic assignment] <!-- TODO: Add your current main project -->
-🌱 Learning: Modern Web Development with React, Cloud Fundamentals (AWS/Azure) <!-- TODO: Add what you're currently learning -->
-👯 Looking to collaborate on: Entry-level Open Source Projects & Learning Challenges
-💬 Ask me about: Front-end development, Python scripting, or getting started with coding <!-- TODO: Add your areas of expertise -->
-⚡ Fun fact: Loves exploring new tech gadgets and automating small tasks! <!-- TODO: Add a fun fact -->
+
+## 👤 About Me
+
+```python
+class Ashutosh:
+    role        = "CS/IT Student & Aspiring AI Engineer"
+    location    = "India 🇮🇳"
+    focus       = ["Agentic AI", "LLM Engineering", "Cybersecurity", "Full Stack Dev"]
+    certifications = [
+        "TryHackMe — Junior Penetration Tester ✅",
+        "Udemy — Certified LLM Engineer ✅",
+        "Ed Donner — Agentic AI (In Progress) 🔄"
+    ]
+    currently_building = "Stamper — a personal AI assistant (heading to production)"
+    ask_me_about = ["LLM Apps", "Python", "Cybersecurity", "RAG Systems"]
+    fun_fact     = "I make LLMs argue with each other for fun — and watch every second of it."
+```
+
 ---
-🛠️ Technology Arsenal
-💻 Programming Languages
+
+## 🛠️ Technology Arsenal
+
+**💻 Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!-- TODO: Add/remove languages based on your actual skills and projects -->
-🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**🤖 AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**🚀 Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-<!-- TODO: Add your actual frameworks -->
-🗄️ Databases
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🗄️ Databases**
+
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- TODO: Add your databases -->
-☁️ Cloud & DevOps (Learning)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**🔐 Security**
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+**🔧 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<!-- TODO: Add your cloud/devops tools as you learn them -->
+
 ---
-📊 GitHub Analytics Dashboard
+
+## 📊 GitHub Analytics
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh777777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh777777&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh777777&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh777777&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-🔥 Streak Statistics
-<p align="center">
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh777777&theme=tokyonight&hide_border=true"/>
-</p>
-📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/Ashutosh777777" alt="Contribution Calendar" width="100%"/>
-⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section with your latest activity -->
-⚙️ Configured `README.md` for my profile (just now)
-🎉 Started a new project repository: `my-awesome-portfolio`
-🌟 Starred a great tutorial on `react-hooks`
-<!--END_SECTION:activity-->
----
-🏗️ Featured Projects
-<div align="center">
-🌟 My Personal Portfolio Website <!-- TODO: Replace with actual project and link -->
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh777777&repo=TODO-my-portfolio&theme=tokyonight)
-Tech Stack: React • HTML • CSS • JavaScript
-Status: 🚧 In Development | ⭐ 0+ Stars | 🍴 0+ Forks
-A dynamic and responsive personal portfolio to showcase my projects and skills, built with modern web technologies.
----
-🔥 Python Web Scraper Tool <!-- TODO: Replace with actual project and link -->
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh777777&repo=TODO-python-webscraper&theme=tokyonight)
-Tech Stack: Python • BeautifulSoup • Requests
-Status: ✅ Complete | ⭐ 0+ Stars | 🍴 0+ Forks
-A simple command-line tool to extract data from websites, demonstrating basic Python scripting and web parsing capabilities.
----
-⚡ Basic E-commerce API (Learning Project) <!-- TODO: Replace with actual project and link -->
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh777777&repo=TODO-ecommerce-api&theme=tokyonight)
-Tech Stack: Node.js • Express.js • MongoDB
-Status: 🚧 In Development | ⭐ 0+ Stars | 🍴 0+ Forks
-A backend API for a simplified e-commerce platform, focusing on RESTful principles and database integration.
 </div>
----
-🎓 Certifications & Achievements
-<!-- TODO: Add your actual certifications, courses, achievements -->
-📜 [Course Name] Certification (e.g., "Meta Front-End Developer Professional Certificate")
-🏆 [Platform] Badge (e.g., "HackerRank Problem Solving (Basic)")
-💡 Completed [Learning Path] on Codecademy/freeCodeCamp
-📝 Latest Blog Posts
-<!-- TODO: Add your recent blog posts if you have any -->
-📖 Getting Started with React Hooks: A Beginner's Guide
-🔧 My First Steps into Python Web Scraping
-☁️ Understanding the Basics of Cloud Computing for Developers
-🎯 2024 Goals
-<!-- TODO: Update with your current year goals -->
-🚀 Build 5 new full-stack projects
-📚 Master a cloud platform (AWS or Azure)
-🌟 Contribute to 3+ open source projects
-📝 Write 6+ technical blog posts
-🗣️ Attend local developer meetups
-🏆 Open Source Contributions
-<!-- TODO: Highlight your major contributions here -->
-🔧 Currently looking for opportunities to contribute!
-📚 Documentation improvements for beginner-friendly projects.
----
-🌐 Let's Connect & Collaborate
+
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <!-- TODO: Add your LinkedIn -->
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) <!-- TODO: Add your Twitter -->
-![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white) <!-- TODO: Add your portfolio -->
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) <!-- TODO: Add your email -->
-![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white) <!-- TODO: Add your blog -->
-📱 Social Presence
-![GitHub followers](https://img.shields.io/github/followers/Ashutosh777777?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social) <!-- TODO: Add your Twitter handle -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh777777&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=003fef&point=00d4ff&area=true&hide_border=true"/>
 </div>
----
-☕ Support My Work
-If you found my projects helpful or learned something from my code, consider supporting my work:
+
 <div align="center">
-![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh777777&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6"/>
 </div>
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
+
 ---
+
+## 🏗️ Featured Projects
+
+> A mix of AI applications, security tools, and full-stack builds.
+
+---
+
+### 🌟 [Stamper](https://github.com/Ashutosh777777/Stamper) — Personal AI Assistant
+![Python](https://img.shields.io/badge/Python-MIT-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-🔨_Heading_to_Production-orange?style=flat-square)
+
+A personal AI assistant that brings together everything you need in one place. Currently being architected for production deployment as a web and mobile app.
+
+**2026 Goal:** Full production release — web + mobile.
+
+---
+
+### 📚 [BookWorm](https://github.com/Ashutosh777777/BookWorm) — RAG-Based Tutor
+![Python](https://img.shields.io/badge/Python-MIT-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-✅_Complete-brightgreen?style=flat-square)
+
+A Retrieval-Augmented Generation tutor that stores document knowledge in a vector database and uses an LLM to answer queries with grounded, contextual responses.
+
+---
+
+### 🎤 [Articoon](https://github.com/Ashutosh777777/Articoon) — AI Conversation Coach
+![HTML](https://img.shields.io/badge/HTML-MIT-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-✅_Complete-brightgreen?style=flat-square)
+
+Practice and improve your conversation skills through real-time voice conversations with an LLM. Provides concrete, actionable feedback on your communication style and shortcomings.
+
+---
+
+### 🧠 [Emotional State Inference](https://github.com/Ashutosh777777/emotional-state-inference) — NLP / ML
+![Python](https://img.shields.io/badge/Python-MIT-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-✅_Complete-brightgreen?style=flat-square)
+
+Text classification model for emotion detection and mental health inference using NLP and scikit-learn. Covers the pipeline from raw text to classified emotional states.
+
+`python` `nlp` `scikit-learn` `text-classification` `mental-health` `emotion-detection`
+
+---
+
+### 🤖 [PoseNet](https://github.com/Ashutosh777777/posenet) — Visual Localization System
+![Python](https://img.shields.io/badge/Python-Apache_2.0-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-✅_Complete-brightgreen?style=flat-square)
+
+Transformer-based visual localization system combining PoseNet with attention mechanisms to estimate camera pose from images.
+
+---
+
+### 🔍 [Cyber-Watch](https://github.com/Ashutosh777777/Cyber-Watch) — CCTV + Security Logging
+![Python](https://img.shields.io/badge/Python-MIT-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-🔨_Active-orange?style=flat-square)
+
+A security monitoring tool that integrates CCTV feeds with a logging system — built for situational awareness and incident tracking.
+
+---
+
+### ⚡ [HisTrack](https://github.com/Ashutosh777777/HisTrack) — Terminal Session Recorder
+![Python](https://img.shields.io/badge/Python-MIT-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-✅_Complete-brightgreen?style=flat-square)
+
+A wrapper around your shell that records and numbers every command you run. Designed for developers, sysadmins, and security researchers who need full session audit trails.
+
+---
+
+### 💬 [Argue](https://github.com/Ashutosh777777/Argue) — LLM Debate Arena
+![Status](https://img.shields.io/badge/Status-✅_Complete-brightgreen?style=flat-square)
+
+Two LLM instances debate any topic you choose, with configurable stances and personalities. Entertaining, surprisingly insightful, and a great way to see how models construct arguments.
+
+---
+
+### 🏦 [Bank Management System](https://github.com/Ashutosh777777/Bank-Management-System) — Java Full Stack ATM
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Status](https://img.shields.io/badge/Status-✅_Complete-brightgreen?style=flat-square)
+
+A full-stack Java ATM and bank management system covering account handling, transactions, and admin flows.
+
+---
+
+### Other Notable Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [salesbrochure](https://github.com/Ashutosh777777/salesbrochure) | Scrapes a website and generates a professional sales brochure using an LLM | Python, BeautifulSoup, LLM |
+| [SlangTutor](https://github.com/Ashutosh777777/SlangTutor) | Explains anything you ask — in slang. Ollama-powered Q&A | Python, Ollama |
+| [Phil](https://github.com/Ashutosh777777/Phil) | Personal Python utility tool | Python |
+| [To-do](https://github.com/Ashutosh777777/To-do) | Flask-based CRUD task manager | Python, Flask, HTML |
+| [Pigeon](https://github.com/Ashutosh777777/Pigeon) | Notifies you when an email arrives from a specific address | Python |
+| [PetCat](https://github.com/Ashutosh777777/PetCat) | A Netcat clone with core networking functionality | Python |
+| [DSA-Practice](https://github.com/Ashutosh777777/DSA-Practice) | Structured notes and solutions for DSA problems | Python |
+
+---
+
+## 🎓 Certifications
+
+| Badge | Certification |
+|---|---|
+| 🔐 | **TryHackMe** — Junior Penetration Tester |
+| 🤖 | **Udemy** — Certified LLM Engineer |
+| 🔄 | **Ed Donner** — Agentic AI *(In Progress)* |
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Ship **Stamper** to production — web app + mobile app, publicly available
+- 🧠 Master **Agentic AI** and multi-agent orchestration frameworks
+- 🏗️ Build production-grade **GenAI pipelines** end to end
+- 🔐 Deepen offensive security skills and earn the next cert tier
+- 📝 Write consistently on [Medium](https://medium.com/@piprodeashutosh) — technical deep dives, project postmortems
+- 🌍 Make at least one AI tool genuinely useful to people outside my circle
+- 🤝 Contribute meaningfully to open source AI tooling
+
+---
+
+## ✍️ Latest Writing
+
+📖 Find my articles and technical posts on [Medium → @piprodeashutosh](https://medium.com/@piprodeashutosh)
+
+---
+
+## 🌐 Connect
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashutosh777777&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-🚀 "Code is poetry, and every commit tells a story"
-<sub>⭐ Feel free to star any repositories you find interesting!</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-piprode-41a136345/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@piprodeashutosh)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piprodeashutosh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashutosh777777)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ashutosh777777&color=003fef&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Ashutosh777777?style=for-the-badge&color=003fef)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:003fef,100:0d1117&height=120&section=footer" width="100%"/>
+  
+  <sub><i>"Ship it, learn from it, rebuild it better."</i></sub>
 </div>
